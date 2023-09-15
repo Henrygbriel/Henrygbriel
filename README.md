@@ -3,10 +3,10 @@
 👨‍💻 Estudante de ciência da caomputação
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Henrygbriel&show_icons=true&theme=radical" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Henrygbriel&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrygbriel&layout=compact&langs_count=8&card_width=200&theme=radical" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrygbriel&layout=compact&langs_count=8&card_width=200&theme=radical" />
 </a>
 
 <div><br>
