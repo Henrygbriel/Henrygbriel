@@ -1,0 +1,76 @@
+:root{
+    --cor1: #181818;
+    --cor2: #272727;
+    --cor3: #ffffff;
+    --cor4: #511fa6;
+}
+body{
+    background-color: var(--cor1);
+}
+main{
+    background-color: var(--cor2);
+    color: var(--cor3);
+    max-width: 500px;
+    min-width: 300px;
+    margin: auto;
+    box-shadow: 5px 5px 15px 1px black;
+    padding: 20px;
+    border-radius: 5px;
+}
+body > main > h1{
+    text-align: center;
+}
+
+body > main > form > .texto{
+    display: flex;
+    flex-direction: column;
+}
+
+body > main > form > .texto > input{
+    background-color: var(--cor1);
+    color: var(--cor3);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: none;
+    padding: 10px 10px 10px 10px;
+    border-radius: 5px;
+    outline: none;
+}
+body > main > form > .texto > span{
+    font-size: 15px;
+    display: none;
+}
+body > main > form > span{
+    font-size: 15px;
+    display: none;
+}
+body > main > form > .texto > #fale{
+    padding-bottom: 80px;
+}
+body > main > form > .sexoClass{
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border-radius: 5px;
+}
+body > main > form > .experiencias{
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+body > main > form > button{
+    background-color: var(--cor4);
+    width: 100%;
+    padding: 15px;
+    color: var(--cor3);
+    border: none;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+body > main > form > button:hover{
+    cursor: pointer;
+    background-color: #511fa6b0;
+}
