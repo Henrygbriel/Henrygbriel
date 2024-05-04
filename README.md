@@ -1,6 +1,6 @@
 ## Hi, I'm Henry Gabriel
 <p>
-  Sou estudante de Ciência da Computação.
+  Ciência da Computação.
 </p>
 
 <div  align="center" style="margin-bottom:100px">
