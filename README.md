@@ -36,7 +36,7 @@
 
 #### Workstation Tools:
 
-![IntelliJ](https://img.shields.io/badge/IntelliJ-4285F4?style=for-the-badge&logo=IntelliJ&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-4285F4?style=for-the-badge&logo=IntelliJ&logoColor=9933ff)
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 
 &nbsp;
